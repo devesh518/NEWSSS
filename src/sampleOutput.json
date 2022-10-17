@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "La LFP rachète l'application Mon Petit Gazon",
+            "description": "La Ligue de football professionnel (LFP) a officialisé l'acquisition du site Mon Petit Gazon, fort d'une base de 3 millions de joueurs. Un choix qui doit permettre à la Ligue 1 d'élargir son audience.",
+            "url": "https://www.lequipe.fr/Football/Actualites/La-lfp-rachete-l-application-mon-petit-gazon/1358944",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/vincent-labrune-president-de-la-lfp-projette-d-aller-a-la-conquete-de-nouvelles-categories-de-fans-e/1500000001698342/0:0,1998:1332-640-427-75/234ab.jpg",
+            "publishedAt": "2022-10-12T16:11:04+00:00",
+            "content": "La LFP motive sa stratégie en s'offrant un site en pleine croissance, de quoi diversifier son audience. Concernant MPG, ce rachat devrait permettre à l'application de disposer pour la première fois d… [+101 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Two teenagers charged in killing of Georgia high school football star | Fox News Video",
+            "description": "Fox Nation host Nancy Grace on the charges against the suspects and details of the murder of Elijah DeWitt",
+            "url": "https://video.foxnews.com/v/6313653287112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5cb559c-cf59-4917-8bd0-aaaf74a60b07/eee3b2e4-a2b1-4326-8ad9-b62eb3ffb431/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+            "publishedAt": "2022-10-12T15:52:19.8851261Z",
+            "content": "©2022 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes."
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Tua Tagovailoa ruled out again; Dolphins to start Skylar Thompson",
+            "description": "Dolphins quarterback Tua Tagovailoa will take a small step Wednesday toward returning to football but has been ruled out for a second straight week because of a concussion.",
+            "url": "http://espn.go.com/nfl/story/_/id/34782013/tua-tagovailoa-ruled-again-dolphins-start-skylar-thompson",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0928%2Fr1068068_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-10-12T15:24:00Z",
+            "content": "Miami Dolphins quarterback Tua Tagovailoa will take a small step Wednesday toward returning to football but has been ruled out for a second straight week because of a concussion.\r\nThe Dolphins plan t… [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Craig Haubert",
+            "title": "2023 football recruiting rankings: New five-stars, rising prospects",
+            "description": "Five new recruits earned a coveted fifth star, including commits from Alabama, Notre Dame and USC. Who else climbed the rankings?",
+            "url": "http://espn.go.com/college-football/insider/story/_/id/34769239/2023-espn-300-update-college-football-recruiting-rankings-five-star-prospects",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1011%2Fncf_espn_300_cr_16x9.jpg",
+            "publishedAt": "2022-10-12T11:00:00Z",
+            "content": "The senior season for college football recruits in the 2023 class is past the halfway point, which means it's time to update our ESPN 300 rankings.\r\nMany recruits in the top 10 have produced, includi… [+11884 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Dieser 23-Jährige überzeugte die Gründer von Wefox, Onefootball und  Shutterstock – das ist sein Pitchdeck",
+            "description": "Bekannte Szeneköpfe und Gründer haben in die Handwerker-App Handly von Bastian Meyer investiert. Dabei geholfen haben diese Slides.",
+            "url": "https://www.businessinsider.de/gruenderszene/business/pitchdeck-handly-wefox-onefootball-shutterstock/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/09/DSC_2055-800x533.png",
+            "publishedAt": "2022-10-12T04:00:00+00:00",
+            "content": "Dieser 23-Jährige überzeugte die Gründer von Wefox, Onefootball und Shutterstock das ist sein Pitchdeck\r\nBekannte Szeneköpfe haben in die Handwerker-App Handly des jungen Gründers Bastian Meyer inves… [+1272 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Kerry Miller",
+            "title": "College Football Playoff Projections: Week 7 Rankings and Bowl Forecast",
+            "description": "It still feels like the 2022 college football season has only just begun, but most teams are halfway through their schedules with nine of them sitting at 6-0...",
+            "url": "https://bleacherreport.com/articles/10051759-college-football-playoff-projections-week-7-rankings-and-bowl-forecast",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1665348076/yqgqynjcscuelutfwdz0.jpg",
+            "publishedAt": "2022-10-11T11:00:00Z",
+            "content": "North Carolina's Drake Maye (Grant Halverson/Getty Images)\r\nHere is the breakdown of bowl projections listed alphabetically by conference. New Year's Six games have been italicized and underlined to … [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Adam Kramer",
+            "title": "B/R CFB Community: What Are the Top Four Teams in College Football?",
+            "description": "Roughly two months into the season, and the landscape looks much different than it once did. Sure, the three teams we expected to dominate the sport—Alabama,...",
+            "url": "https://bleacherreport.com/articles/10051908-br-cfb-community-what-are-the-top-four-teams-in-college-football",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1665421600/s5xo9n1kfkuzehkzvhqu.jpg",
+            "publishedAt": "2022-10-11T11:00:00Z",
+            "content": "Jonathan Bachman/Getty Images\r\nRoughly two months into the season, and the landscape looks much different than it once did.\r\nSure, the three teams we expected to dominate the sportAlabama, Ohio State… [+7277 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
